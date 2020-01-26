@@ -1,0 +1,6 @@
+INSERT INTO `pais` (`idpais`, `nombre`) VALUES
+(1, 'Brazil'),
+(2, 'China'),
+(3, 'Francia'),
+(4, 'India'),
+(5, 'USA');

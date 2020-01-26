@@ -1,0 +1,22 @@
+INSERT INTO `hotel` (`idhotel`, `nombre`, `correo`, `direccion`, `habitaciones_disponibles`, `idciudad`, `idproveedor`) VALUES 
+(NULL, 'hotel1', '22@123.com', 'xdxd', '200', '7', '12'),
+(NULL, 'hotel2', '23@123.com', 'xdxd', '200', '77', '3'),
+(NULL, 'hotel3', '24@123.com', 'xdxd', '200', '201', '4'),
+(NULL, 'hotel4', '25@123.com', 'xdxd', '200', '224', '5'),
+(NULL, 'hotel5', '26@123.com', 'xdxd', '200', '404', '6'),
+(NULL, 'hotel6', '27@123.com', 'xdxd', '200', '625', '7'),
+(NULL, 'hotel7', '28@123.com', 'xdxd', '200', '683', '8'),
+(NULL, 'hotel8', '29@123.com', 'xdxd', '200', '780', '9'),
+(NULL, 'hotel9', '210@123.com', 'xdxd', '200', '11', '10'),
+(NULL, 'hotel10', '211@123.com', 'xdxd', '200', '13', '11'),
+(NULL, 'hotel11', '213@123.com', 'xdxd', '200', '15', '12'),
+(NULL, 'hotel12', '214@123.com', 'xdxd', '200', '18', '3'),
+(NULL, 'hotel13', '215@123.com', 'xdxd', '200', '25', '4'),
+(NULL, 'hotel14', '216@123.com', 'xdxd', '200', '26', '5'),
+(NULL, 'hotel15', '217@123.com', 'xdxd', '200', '39', '6'),
+(NULL, 'hotel16', '218@123.com', 'xdxd', '200', '42', '7'),
+(NULL, 'hotel17', '219@123.com', 'xdxd', '200', '44', '8'),
+(NULL, 'hotel18', '220@123.com', 'xdxd', '200', '45', '9'),
+(NULL, 'hotel19', '221@123.com', 'xdxd', '200', '48', '10'),
+(NULL, 'hotel20', '222@123.com', 'xdxd', '200', '61', '11')
+;

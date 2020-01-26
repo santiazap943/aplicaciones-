@@ -1,0 +1,11 @@
+INSERT INTO `proveedor` (`idproveedor`, `nombre`, `apellido`, `correo`, `clave`, `estado`) VALUES 
+(NULL, 'prov2', 'xd', '33@123.com', MD5('123'), '1'),
+(NULL, 'prov3', 'xd', '34@123.com', MD5('123'), '1'),
+(NULL, 'prov4', 'xd', '35@123.com', MD5('123'), '1'),
+(NULL, 'prov5', 'xd', '36@123.com', MD5('123'), '1'),
+(NULL, 'prov6', 'xd', '37@123.com', MD5('123'), '1'),
+(NULL, 'prov7', 'xd', '38@123.com', MD5('123'), '1'),
+(NULL, 'prov8', 'xd', '39@123.com', MD5('123'), '1'),
+(NULL, 'prov9', 'xd', '310@123.com', MD5('123'), '1'),
+(NULL, 'prov0', 'xd', '311@123.com', MD5('123'), '1')
+;
